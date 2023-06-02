@@ -1,0 +1,15 @@
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.csproj.AssemblyReference.cache
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.AssemblyInfoInputs.cache
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.AssemblyInfo.cs
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.csproj.CoreCompileInputs.cache
+E:\repository\lab4_z1\bin\Debug\net6.0\lab4_z1.exe
+E:\repository\lab4_z1\bin\Debug\net6.0\lab4_z1.deps.json
+E:\repository\lab4_z1\bin\Debug\net6.0\lab4_z1.runtimeconfig.json
+E:\repository\lab4_z1\bin\Debug\net6.0\lab4_z1.dll
+E:\repository\lab4_z1\bin\Debug\net6.0\lab4_z1.pdb
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.dll
+E:\repository\lab4_z1\obj\Debug\net6.0\refint\lab4_z1.dll
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.pdb
+E:\repository\lab4_z1\obj\Debug\net6.0\lab4_z1.genruntimeconfig.cache
+E:\repository\lab4_z1\obj\Debug\net6.0\ref\lab4_z1.dll
